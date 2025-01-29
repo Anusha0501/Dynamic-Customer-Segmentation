@@ -57,8 +57,9 @@ cust_trans_rfm.to_csv('Customer_Trans_RFM_Analysis.csv', index=False)
 ## Conclusion:
 This project provides insights into customer demographics, purchasing behavior, and segmentation based on RFM values. The visualizations and segments can be utilized for targeted marketing, sales strategies, and improving customer relationships.
 
+![Screenshot 2025-01-29 at 15 18 49](https://github.com/user-attachments/assets/dad08d23-c5ed-4b20-ac38-45c88a693e54)
+![Screenshot 2025-01-29 at 15 19 06](https://github.com/user-attachments/assets/e1956f31-3197-4684-b6c6-10ba96e97d2e)
 ![Screenshot 2025-01-29 at 15 19 36](https://github.com/user-attachments/assets/923c6f23-2da6-47b6-888f-43d8cf31ce7e)
 ![Screenshot 2025-01-29 at 15 19 24](https://github.com/user-attachments/assets/31c33dd7-38c7-4793-bdd6-f22195e79b8c)
-![Screenshot 2025-01-29 at 15 19 06](https://github.com/user-attachments/assets/e1956f31-3197-4684-b6c6-10ba96e97d2e)
-![Screenshot 2025-01-29 at 15 18 49](https://github.com/user-attachments/assets/dad08d23-c5ed-4b20-ac38-45c88a693e54)
+
 
